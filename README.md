@@ -16,8 +16,9 @@ Lab Repo for FEC Experiments
 some usage instructions
 
 ## Requirements
+An ```bash
+nvmc ```  file is included if using [nvm](https://github.com/nvm-sh/nvm)
 - Node 6.13.0
-
 ## Development
 ### Installing Dependencies
 From within the root directory:
