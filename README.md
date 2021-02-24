@@ -2,16 +2,23 @@
 Lab Repo for FEC Experiments
 
 
-# Related Projects
+## Related Projects
+- [Robert S. Repo](https://github.com/LikeGunSmoke/FEC-Lab.git)
 
-# Table of Contents
+## Table of Contents
+1. [Usage](./docs/usage.md)
+2. [Requirements](./docs/requirements.md)
+3. [Developments](./docs/developments.md)
 
-# Usage
+## Usage
 some usage instructions
 
-# Requirements
+## Requirements
+- Node 6.13.0
 
-# Development
-## Installing Dependencies
+## Development
+### Installing Dependencies
 ### From within the root directory:
+```bash
 npm install
+```
