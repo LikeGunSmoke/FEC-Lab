@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
+
+// Had to add this to compile jsx files, for whatever reason the preset options in package.json isn't working. Left it there for reference, fix later.
